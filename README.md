@@ -1,16 +1,17 @@
-### Hi there 👋
+## **👩 About Me**
 
-<!--
-**Huda30/Huda30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Name: Huda Abdi
+- Based in London, United Kingdom
+- Current position: Professional career switcher 💻
+- Previous position: HR Management 💻
+- Hobby: Playing chess ♟️
 
-Here are some ideas to get you started:
+## **🔌🧬My Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Language: SQL (MySQL, Big Query), Python.
+- Visualization Tool: Power BI, Tableau.
+- Others: Microsoft Excel, Smartsheet, HRIS, SAP, Databricks, Spark.
+
+## **📫 How to reach me**
+
+Via email ([Hudaabdi54@gmail.com](mailto:Hudaabdi54@gmail.com)) or [LinkedIn](https://www.linkedin.com/in/huda-abdi-798980172/)
