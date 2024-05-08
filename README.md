@@ -2,8 +2,7 @@
 
 - Name: Huda Abdi
 - Based in London, United Kingdom
-- Current position: Professional career switcher 💻
-- Previous position: HR Management 💻
+- Current position: Data Analyst 💻
 - Hobby: Playing chess ♟️
 
 ## **🔌🧬My Skills**
