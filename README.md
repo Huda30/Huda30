@@ -3,7 +3,7 @@
 - Name: Huda Abdi
 - Based in London, United Kingdom
 - Job title: Data Analyst 💻
-- Hobby: Playing chess ♟️
+- Hobby: Chess ♟️
 
 ## **🔌🧬My Skills**
 
