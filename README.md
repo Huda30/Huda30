@@ -10,7 +10,7 @@
 - Language: SQL (MySQL, Big Query), Python.
 - Visualization Tool: Power BI, Tableau.
 - Others: Microsoft Excel, Smartsheet, HRIS, SAP, Databricks, Spark.
-- I am currently working on building my GitHub profile and getting familiar with it 😊
+- I am currently working on building my GitHub profile 😊
 
 ## **📫 How to reach me**
 
