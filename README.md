@@ -18,7 +18,7 @@
 
 | Project name | Repo link | Progm language/tool  | Notes |
 |    :---:     |     :---:      |     :---: |            :---: |
-| Beauty Shop DB   | git status     | MySQL    |  Completed ✔   |
+| Beauty Shop DB   | [click here](https://github.com/Huda30/CFG-SQL-Project/blob/main/SQL_Project_Beauty_Database.pdf)    | MySQL    |  Completed ✔   |
 | Data Superstore   | git status     | Tableau    |  Completed ✔   |
 | Uber   | git status     | Python    |  Under progress ⏳   |
 
