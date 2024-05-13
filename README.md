@@ -16,10 +16,12 @@
 
 ## **🗺How to navigate to my GitHub profile:**
 
-|Project name | Repo link | Status|
-| :---         |     :---:      |          ---: |
-|   SQL Beauty Shop DB | git status     | completed  |
-| git diff     | git diff       | git diff      |
+| Project name | Repo link | Progm language/tool  | Notes |
+|    :---:     |     :---:      |     :---: |            :---: |
+| Beauty Shop DB   | git status     | MySQL    |  Completed ✔   |
+| Data Superstore   | git status     | Tableau    |  Completed ✔   |
+| Uber   | git status     | Python    |  Under progress ⏳   |
+
 
 ## **📫 How to reach me**
 
