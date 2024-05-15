@@ -26,6 +26,11 @@
 
 Career transition is crucial for professional growth. It involves embracing new opportunities, learning, and adapting, which can significantly enhance one's skill set and open up a new career path. Transitioning careers also leads to personal development and a broader professional network.
 
+## *😁 Fun fact about me*
+I still use CDs 💿
+
 ## *📫 How to reach out?*
 
 Via email ([Hudaabdi54@gmail.com](mailto:Hudaabdi54@gmail.com)) or [LinkedIn](https://www.linkedin.com/in/huda-abdi-798980172/)
+
+
