@@ -1,11 +1,11 @@
-## **👩 About Me**
+## *👩 About Me*
 
 - Name: Huda Abdi
 - Based in London, England
 - Job title: Data Analyst 💻
 - Hobby: Chess ♟️
 
-## **🔌🧬My Skills**
+## *🔌My Skills*
 
 - Language: SQL (MySQL, Big Query), Python.
 - Visualization Tool: Power BI, Tableau.
@@ -14,7 +14,7 @@
 
   
 
-## **🗺How to navigate to my GitHub profile:**
+## *🗺How do you navigate to my GitHub profile?*
 
 | Project name | Repo link | Progm language/tool  | Notes |
 |    :---:     |     :---:      |     :---: |            :---: |
@@ -22,7 +22,10 @@
 | Sales Analysis   | [click here](https://github.com/Huda30/Data-Superstore/blob/main/FTD%20Tableau%20Sales%20Analysis.twbx)     | Tableau    |  Completed ✔   |
 | Uber   | ----     | Python    |  Under progress ⏳   |
 
+## *💡How important is career transition in professional growth?*
 
-## **📫 How to reach me**
+Career transition is crucial for professional growth. It involves embracing new opportunities, learning, and adapting, which can significantly enhance one's skill set and open up a new career path. Transitioning careers also leads to personal development and a broader professional network.
+
+## *📫 How to reach out?*
 
 Via email ([Hudaabdi54@gmail.com](mailto:Hudaabdi54@gmail.com)) or [LinkedIn](https://www.linkedin.com/in/huda-abdi-798980172/)
