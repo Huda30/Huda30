@@ -16,7 +16,7 @@
 
 ## *🗺How do you navigate to my GitHub profile?*
 
-| Project name | Repo link | Progm language/tool  | Notes |
+| Project name | Repo link | Progm language/tool/Packages  | Notes |
 |    :---:     |     :---:      |     :---: |            :---: |
 | Beauty Shop DB   | [click here](https://github.com/Huda30/CFG-SQL-Project/blob/main/SQL_Project_Beauty_Database.pdf)    | MySQL    |  Database management, Data manipulation, Big Query ✔   |
 | Sales Analysis   | [click here](https://github.com/Huda30/Data-Superstore/blob/main/FTD%20Tableau%20Sales%20Analysis.twbx)     | Tableau    |  Data vis ✔  |
