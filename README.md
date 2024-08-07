@@ -1,7 +1,7 @@
 ## *👩 About Me*
 
 - Name: Huda Abdi
-- Based in London, England
+- Based in London
 - Job title: HR Data Analyst 💻
 - Hobby: Chess ♟️
 
